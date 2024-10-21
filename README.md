@@ -1,11 +1,8 @@
    
-<h2>Hey there! 👋 </h2>
-### I'm a passionate software developer who thrives on creating innovative solutions! Currently,  One of my exciting projects is Jarvas, an API that keeps developers updated on their app statuses through smart notifications and data storage. 🚀  
-<br>
-I love diving deep into cloud infrastructure and containerization. Security and Automation is another passion of mine, and I'm always experimenting with tools and techniques to make systems safer. 🔐  
+<h2>👋 Hi, I'm Rafael! </h2>
 
-When I'm not coding, I enjoy mentoring others. Outside of tech, I'm a lifelong learner—whether it's picking up new programming languages, fine-tuning APIs like Google Chat and WhatsApp, or improving my systems with OAuth2, JWT authentication, and C4 Model diagrams. 📚  
-***
+>#### I'm a sixth-term computer science student passionate about development and knowledge sharing. I've completed a technical course in informatics and am engaged in research scholarships. My work has been featured at various events, and my latest project, Jarvas, is being utilised by master’s students as part of their studies. I'm always eager to learn and contribute to innovative projects!
+<hr>
 
 <p align="center">Visitors:</p>
 <p align="center"><img align="center"src="https://profile-counter.glitch.me/RafaelNogueiXD/count.svg"/></p>
@@ -22,8 +19,8 @@ When I'm not coding, I enjoy mentoring others. Outside of tech, I'm a lifelong l
    </table>
 </div>
 <hr>
-## 🖥️ **Languages**: 
-<div style="display: inline_block"><br>
+ <h3 align="center">🖥️ Languages: </h3> 
+<div align="center" style="display: inline_block"><br>
 
 [![My Skills](https://skillicons.dev/icons?i=js,docker,react,nextjs,nodejs,sass,npm,sqlite,postgres,postman,tailwind,py,flask,fastapi,figma,bootstrap,c,cpp,html,css,discord,express,git,github,gmail,go,java,jquery,materialui,mysql,php)](https://skillicons.dev)
 
@@ -34,9 +31,9 @@ When I'm not coding, I enjoy mentoring others. Outside of tech, I'm a lifelong l
 
 | Topic | Event | Year |
 | :---: | :---: | :---: |
-| Terceiro lugar Nacional | Sistema Integral del Rally Latinoamericano de Innovación | 2023 |
-| Primeiro lugar estadual | Sistema Integral del Rally Latinoamericano de Innovación | 2023 |
-| Primeiro lugar na Sede (Unipampa) | Sistema Integral del Rally Latinoamericano de Innovación | 2023 |
+| Third place National | Integral System of the Latin American Innovation Rally | 2023 |
+| First place State | Integral System of the Latin American Innovation Rally | 2023 |
+| First place at Federal University of Pampa (UNIPAMPA) | Integral System of the Latin American Innovation Rally | 2023 |
    
 </div>
 
