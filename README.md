@@ -18,9 +18,9 @@
          <td>
            <img align="center" style="margin-left: 20" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelNogueiraXD&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="Rafael Nogueira" /> 
          </td>
-         <td>
+<!--          <td>
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelNogueiraXD&theme=dark&hide_border=false" alt="Rafael Nogueira" />
-         </td>
+         </td> -->
       </tr>
    </table>
 </div>
