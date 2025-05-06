@@ -55,6 +55,7 @@
 
 | Topic | Event | Year |
 | :---: | :---: | :---: |
+| Third place on ERAD RS🥉 | Parallel Programming Competition | 2025 |
 | Third place National 🥉 | Integral System of the Latin American Innovation Rally | 2023 |
 | First place State 🥇 | Integral System of the Latin American Innovation Rally | 2023 |
 | First place at Federal University of Pampa (UNIPAMPA) 🥇 | Integral System of the Latin American Innovation Rally | 2023 |
