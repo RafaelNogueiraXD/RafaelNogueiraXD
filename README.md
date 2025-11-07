@@ -10,8 +10,6 @@
 >#### I'm a sixth-term computer science student passionate about development and knowledge sharing. I've completed a technical course in informatics and am engaged in research scholarships. My work has been featured at various events, and my latest project, Jarvas, is being utilised by master’s students as part of their studies. I'm always eager to learn and contribute to innovative projects!
 <hr>
 
-<p align="center">Visitors:</p>
-<p align="center"><img align="center"src="https://profile-counter.glitch.me/RafaelNogueiXD/count.svg"/></p>
 <div align="center"><br>
    <table>
       <tr>
